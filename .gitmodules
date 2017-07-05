@@ -1,0 +1,8 @@
+[submodule "kirby"]
+	path = kirby
+	url = git@github.com:getkirby/kirby.git
+	branch = master
+[submodule "panel"]
+	path = panel
+	url = git@github.com:getkirby/panel.git
+	branch = develop
