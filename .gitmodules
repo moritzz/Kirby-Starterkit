@@ -5,4 +5,4 @@
 [submodule "panel"]
 	path = panel
 	url = git@github.com:getkirby/panel.git
-	branch = develop
+	branch = master
